@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">n1116729_ex5</string>
+    <string name="rentCount">模擬客戶出租次數</string>
+    <string name="simulation">模擬</string>
+</resources>
